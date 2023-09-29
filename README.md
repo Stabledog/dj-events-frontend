@@ -1,3 +1,10 @@
+# Readme for dj-events-frontend
+
+Setup video in tutorial: https://learning.oreilly.com/videos/next-js-from-development/9781801814706/9781801814706-video2_1/
+
+
+
+# ------------ ORIGINAL README -----------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
