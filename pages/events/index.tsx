@@ -2,7 +2,7 @@
 export default function EventsPage() {
     return (
         <div>
-            <h1>My Events</h1>
+            <h1>My Events list</h1>
         </div>
     )
 }
