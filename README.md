@@ -1,6 +1,9 @@
 # Readme for dj-events-frontend
 
 Setup video in tutorial: https://learning.oreilly.com/videos/next-js-from-development/9781801814706/9781801814706-video2_1/
+
+Current location in tutorial: https://learning.oreilly.com/videos/next-js-from-development/9781801814706/9781801814706-video2_4/
+
 Instructor's repos:
 
     https://github.com/bradtraversy/dj-events-frontend
