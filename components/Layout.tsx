@@ -1,5 +1,6 @@
 import Head from "next/head";
 import styles from '../styles/Layout.module.css'
+import Header from "./Header"
 
 interface LayoutProps {
     title: String;
@@ -15,6 +16,7 @@ export default function Layout({ title, description, children }: LayoutProps) {
                 {title}
                 <meta name="description" content="{description}" />
             </Head>
+            <Header />
             <div className={styles.container}>
             {children}
             </div>
