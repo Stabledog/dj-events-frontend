@@ -9,6 +9,10 @@ Config:
 	# Add some Config stuff
 	EOF
 
+setup:
+	@set -ue
+	npm install
+	npm install react-icons
 
 run.dev:
 	@set -ue
