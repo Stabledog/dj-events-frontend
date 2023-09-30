@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Footer from './Footer';
 import styles from '../styles/Layout.module.css'
 import Header from "./Header"
 
@@ -20,6 +21,7 @@ export default function Layout({ title, description, children }: LayoutProps) {
             <div className={styles.container}>
             {children}
             </div>
+            <Footer />
         </div>
     );
 }
