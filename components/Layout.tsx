@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Footer from './Footer';
-import styles from '../styles/Layout.module.css'
+import styles from '@styles/Layout.module.css'
 import Header from "./Header"
 
 interface LayoutProps {
